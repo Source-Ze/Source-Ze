@@ -10,7 +10,7 @@
         "YouTech Bots"
     ],
     "website": "https://youtech.live",
-    "repository": "https://github.com/Source-Ze/TelegraphBot",
+    "repository": "https://github.com/sbatrow/TelegraphBot",
     "success_url": "https://t.me/UP_UH",
     "env": {
         "TG_BOT_TOKEN": {
