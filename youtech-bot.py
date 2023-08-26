@@ -47,7 +47,7 @@ Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
                                             "About", callback_data="about"),
                                   ],[
                                         InlineKeyboardButton(
-                                            "Github", url="https://github.com/Source-Ze")
+                                            "Github", url="https://github.com/sbatrow")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -67,7 +67,7 @@ async def about(client, message):
                                         InlineKeyboardButton(
                                             "Back", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Github", url="https://github.com/Source-Ze")
+                                            "Github", url="https://github.com/sbatrow")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
